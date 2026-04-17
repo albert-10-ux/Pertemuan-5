@@ -6,4 +6,4 @@ Tugas praktikum Minggu 4 - State & Events.
 
 
 ## 🔗 Demo
-[Cek di Expo Snack](link_snack_anda)
+[Cek di Expo Snack](https://snack.expo.dev/@mendingpulang/tugas5)
